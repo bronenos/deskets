@@ -7,42 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D4286DCB15860F1000551C23 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DCA15860F1000551C23 /* AppDelegate.m */; };
-		D4286DCC15860F1000551C23 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DCA15860F1000551C23 /* AppDelegate.m */; };
-		D4286DD315860F4800551C23 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DD215860F4800551C23 /* main.m */; };
-		D4286DD415860F4800551C23 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DD215860F4800551C23 /* main.m */; };
 		D4286DDF15860FB000551C23 /* WallWidget.h in Headers */ = {isa = PBXBuildFile; fileRef = D4286DDD15860FB000551C23 /* WallWidget.h */; };
 		D4286DE015860FB000551C23 /* WallWidget.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DDE15860FB000551C23 /* WallWidget.m */; };
 		D4286DE515860FEA00551C23 /* NSColor+CGColor.h in Headers */ = {isa = PBXBuildFile; fileRef = D4286DE115860FEA00551C23 /* NSColor+CGColor.h */; };
 		D4286DE615860FEA00551C23 /* NSColor+CGColor.h in Headers */ = {isa = PBXBuildFile; fileRef = D4286DE115860FEA00551C23 /* NSColor+CGColor.h */; };
-		D4286DE715860FEA00551C23 /* NSColor+CGColor.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DE215860FEA00551C23 /* NSColor+CGColor.m */; };
-		D4286DE815860FEA00551C23 /* NSColor+CGColor.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DE215860FEA00551C23 /* NSColor+CGColor.m */; };
 		D4286DE915860FEA00551C23 /* NSColor+CGColor.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DE215860FEA00551C23 /* NSColor+CGColor.m */; };
 		D4286DEA15860FEA00551C23 /* NSColor+CGColor.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DE215860FEA00551C23 /* NSColor+CGColor.m */; };
 		D4286DEB15860FEA00551C23 /* NSView+Wallsheet.h in Headers */ = {isa = PBXBuildFile; fileRef = D4286DE315860FEA00551C23 /* NSView+Wallsheet.h */; };
 		D4286DEC15860FEA00551C23 /* NSView+Wallsheet.h in Headers */ = {isa = PBXBuildFile; fileRef = D4286DE315860FEA00551C23 /* NSView+Wallsheet.h */; };
-		D4286DED15860FEA00551C23 /* NSView+Wallsheet.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DE415860FEA00551C23 /* NSView+Wallsheet.m */; };
-		D4286DEE15860FEA00551C23 /* NSView+Wallsheet.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DE415860FEA00551C23 /* NSView+Wallsheet.m */; };
 		D4286DEF15860FEA00551C23 /* NSView+Wallsheet.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DE415860FEA00551C23 /* NSView+Wallsheet.m */; };
 		D4286DF015860FEA00551C23 /* NSView+Wallsheet.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DE415860FEA00551C23 /* NSView+Wallsheet.m */; };
-		D4286DF71586100200551C23 /* WallsheetView.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DF21586100100551C23 /* WallsheetView.m */; };
-		D4286DF81586100200551C23 /* WallsheetView.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DF21586100100551C23 /* WallsheetView.m */; };
-		D4286DF91586100200551C23 /* WallsheetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DF41586100100551C23 /* WallsheetViewController.m */; };
-		D4286DFA1586100200551C23 /* WallsheetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DF41586100100551C23 /* WallsheetViewController.m */; };
-		D4286DFB1586100200551C23 /* WallsheetWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DF61586100100551C23 /* WallsheetWindowController.m */; };
-		D4286DFC1586100200551C23 /* WallsheetWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4286DF61586100100551C23 /* WallsheetWindowController.m */; };
 		D47FA16E158611CF00E2241D /* ClockWidget.h in Headers */ = {isa = PBXBuildFile; fileRef = D47FA16C158611CF00E2241D /* ClockWidget.h */; };
 		D47FA16F158611CF00E2241D /* ClockWidget.m in Sources */ = {isa = PBXBuildFile; fileRef = D47FA16D158611CF00E2241D /* ClockWidget.m */; };
 		D47FA170158611E300E2241D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4EA672B15853EF900DF514C /* QuartzCore.framework */; };
 		D47FA171158611E700E2241D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4EA672B15853EF900DF514C /* QuartzCore.framework */; };
 		D47FA1741586120500E2241D /* CalendarWidget.h in Headers */ = {isa = PBXBuildFile; fileRef = D47FA1721586120500E2241D /* CalendarWidget.h */; };
 		D47FA1751586120500E2241D /* CalendarWidget.m in Sources */ = {isa = PBXBuildFile; fileRef = D47FA1731586120500E2241D /* CalendarWidget.m */; };
-		D4AF2289158609AA00505D65 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4C46D581585286000A6DEAC /* Cocoa.framework */; };
-		D4AF228A158609AA00505D65 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4EA672B15853EF900DF514C /* QuartzCore.framework */; };
-		D4AF2295158609CC00505D65 /* desket-clock.dylib in Resources */ = {isa = PBXBuildFile; fileRef = D4EA67441585FA2C00DF514C /* desket-clock.dylib */; };
-		D4AF2296158609D000505D65 /* desket-calendar.dylib in Resources */ = {isa = PBXBuildFile; fileRef = D4EA67731585FC6B00DF514C /* desket-calendar.dylib */; };
-		D4C46D591585286000A6DEAC /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4C46D581585286000A6DEAC /* Cocoa.framework */; };
-		D4EA672C15853EF900DF514C /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4EA672B15853EF900DF514C /* QuartzCore.framework */; };
 		D4EA67451585FA2C00DF514C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4C46D581585286000A6DEAC /* Cocoa.framework */; };
 		D4EA67561585FB1D00DF514C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4C46D581585286000A6DEAC /* Cocoa.framework */; };
 		D4EA67741585FC6B00DF514C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4C46D581585286000A6DEAC /* Cocoa.framework */; };
@@ -51,28 +31,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D4286DC915860F1000551C23 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "deskets-system/AppDelegate.h"; sourceTree = SOURCE_ROOT; };
-		D4286DCA15860F1000551C23 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = "deskets-system/AppDelegate.m"; sourceTree = SOURCE_ROOT; };
-		D4286DCE15860F3600551C23 /* Deskets-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "Deskets-Info.plist"; path = "deskets-system/Deskets-Info.plist"; sourceTree = SOURCE_ROOT; };
-		D4286DD215860F4800551C23 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "deskets-system/main.m"; sourceTree = SOURCE_ROOT; };
 		D4286DDD15860FB000551C23 /* WallWidget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WallWidget.h; path = "deskets-system/desket-widget/WallWidget.h"; sourceTree = SOURCE_ROOT; };
 		D4286DDE15860FB000551C23 /* WallWidget.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WallWidget.m; path = "deskets-system/desket-widget/WallWidget.m"; sourceTree = SOURCE_ROOT; };
 		D4286DE115860FEA00551C23 /* NSColor+CGColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSColor+CGColor.h"; path = "deskets-system/Categories/NSColor+CGColor.h"; sourceTree = SOURCE_ROOT; };
 		D4286DE215860FEA00551C23 /* NSColor+CGColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSColor+CGColor.m"; path = "deskets-system/Categories/NSColor+CGColor.m"; sourceTree = SOURCE_ROOT; };
 		D4286DE315860FEA00551C23 /* NSView+Wallsheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSView+Wallsheet.h"; path = "deskets-system/Categories/NSView+Wallsheet.h"; sourceTree = SOURCE_ROOT; };
 		D4286DE415860FEA00551C23 /* NSView+Wallsheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSView+Wallsheet.m"; path = "deskets-system/Categories/NSView+Wallsheet.m"; sourceTree = SOURCE_ROOT; };
-		D4286DF11586100100551C23 /* WallsheetView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WallsheetView.h; path = "deskets-system/WallsheetView.h"; sourceTree = SOURCE_ROOT; };
-		D4286DF21586100100551C23 /* WallsheetView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WallsheetView.m; path = "deskets-system/WallsheetView.m"; sourceTree = SOURCE_ROOT; };
-		D4286DF31586100100551C23 /* WallsheetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WallsheetViewController.h; path = "deskets-system/WallsheetViewController.h"; sourceTree = SOURCE_ROOT; };
-		D4286DF41586100100551C23 /* WallsheetViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WallsheetViewController.m; path = "deskets-system/WallsheetViewController.m"; sourceTree = SOURCE_ROOT; };
-		D4286DF51586100100551C23 /* WallsheetWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WallsheetWindowController.h; path = "deskets-system/WallsheetWindowController.h"; sourceTree = SOURCE_ROOT; };
-		D4286DF61586100100551C23 /* WallsheetWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WallsheetWindowController.m; path = "deskets-system/WallsheetWindowController.m"; sourceTree = SOURCE_ROOT; };
 		D47FA16C158611CF00E2241D /* ClockWidget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ClockWidget.h; path = deskets/clock/ClockWidget.h; sourceTree = SOURCE_ROOT; };
 		D47FA16D158611CF00E2241D /* ClockWidget.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ClockWidget.m; path = deskets/clock/ClockWidget.m; sourceTree = SOURCE_ROOT; };
 		D47FA1721586120500E2241D /* CalendarWidget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CalendarWidget.h; path = deskets/calendar/CalendarWidget.h; sourceTree = SOURCE_ROOT; };
 		D47FA1731586120500E2241D /* CalendarWidget.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CalendarWidget.m; path = deskets/calendar/CalendarWidget.m; sourceTree = SOURCE_ROOT; };
-		D4AF2292158609AA00505D65 /* deskets.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = deskets.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D4C46D541585286000A6DEAC /* deskets.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = deskets.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4C46D581585286000A6DEAC /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		D4C46D5B1585286000A6DEAC /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		D4C46D5C1585286000A6DEAC /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
@@ -81,29 +49,9 @@
 		D4EA67441585FA2C00DF514C /* desket-clock.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = "desket-clock.dylib"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4EA67551585FB1D00DF514C /* desket-widget.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = "desket-widget.dylib"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4EA67731585FC6B00DF514C /* desket-calendar.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = "desket-calendar.dylib"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D4EA678B1586012800DF514C /* desket-calendar.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "desket-calendar.dylib"; path = "deskets/desket-calendar.dylib"; sourceTree = "<group>"; };
-		D4EA678C1586012800DF514C /* desket-clock.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "desket-clock.dylib"; path = "deskets/desket-clock.dylib"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D4AF2288158609AA00505D65 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D4AF2289158609AA00505D65 /* Cocoa.framework in Frameworks */,
-				D4AF228A158609AA00505D65 /* QuartzCore.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D4C46D511585286000A6DEAC /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D4C46D591585286000A6DEAC /* Cocoa.framework in Frameworks */,
-				D4EA672C15853EF900DF514C /* QuartzCore.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D4EA67411585FA2C00DF514C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -150,11 +98,9 @@
 		D4C46D551585286000A6DEAC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D4C46D541585286000A6DEAC /* deskets.app */,
 				D4EA67441585FA2C00DF514C /* desket-clock.dylib */,
 				D4EA67551585FB1D00DF514C /* desket-widget.dylib */,
 				D4EA67731585FC6B00DF514C /* desket-calendar.dylib */,
-				D4AF2292158609AA00505D65 /* deskets.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -182,29 +128,10 @@
 		D4C46D5E1585286000A6DEAC /* deskets */ = {
 			isa = PBXGroup;
 			children = (
-				D4286DC915860F1000551C23 /* AppDelegate.h */,
-				D4286DCA15860F1000551C23 /* AppDelegate.m */,
-				D4C46D5F1585286000A6DEAC /* Supporting Files */,
 				D4FB995215860E8800DD69A1 /* Categories */,
-				D4EA67841585FD2B00DF514C /* Resources */,
-				D4286DF11586100100551C23 /* WallsheetView.h */,
-				D4286DF21586100100551C23 /* WallsheetView.m */,
-				D4286DF31586100100551C23 /* WallsheetViewController.h */,
-				D4286DF41586100100551C23 /* WallsheetViewController.m */,
-				D4286DF51586100100551C23 /* WallsheetWindowController.h */,
-				D4286DF61586100100551C23 /* WallsheetWindowController.m */,
 			);
 			name = deskets;
 			path = homer;
-			sourceTree = "<group>";
-		};
-		D4C46D5F1585286000A6DEAC /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				D4286DD215860F4800551C23 /* main.m */,
-				D4286DCE15860F3600551C23 /* Deskets-Info.plist */,
-			);
-			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		D4EA67461585FA2C00DF514C /* desket-clock */ = {
@@ -232,16 +159,6 @@
 				D47FA1731586120500E2241D /* CalendarWidget.m */,
 			);
 			path = "desket-calendar";
-			sourceTree = "<group>";
-		};
-		D4EA67841585FD2B00DF514C /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				D4EA678C1586012800DF514C /* desket-clock.dylib */,
-				D4EA678B1586012800DF514C /* desket-calendar.dylib */,
-			);
-			name = Resources;
-			path = ..;
 			sourceTree = "<group>";
 		};
 		D4FB995215860E8800DD69A1 /* Categories */ = {
@@ -289,40 +206,6 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		D4AF227F158609AA00505D65 /* deskets (bronenos) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D4AF228F158609AA00505D65 /* Build configuration list for PBXNativeTarget "deskets (bronenos)" */;
-			buildPhases = (
-				D4AF2280158609AA00505D65 /* Sources */,
-				D4AF2288158609AA00505D65 /* Frameworks */,
-				D4AF228B158609AA00505D65 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "deskets (bronenos)";
-			productName = homer;
-			productReference = D4AF2292158609AA00505D65 /* deskets.app */;
-			productType = "com.apple.product-type.application";
-		};
-		D4C46D531585286000A6DEAC /* deskets */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D4C46D721585286000A6DEAC /* Build configuration list for PBXNativeTarget "deskets" */;
-			buildPhases = (
-				D4C46D501585286000A6DEAC /* Sources */,
-				D4C46D511585286000A6DEAC /* Frameworks */,
-				D4C46D521585286000A6DEAC /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = deskets;
-			productName = homer;
-			productReference = D4C46D541585286000A6DEAC /* deskets.app */;
-			productType = "com.apple.product-type.application";
-		};
 		D4EA67431585FA2C00DF514C /* desket-clock */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = D4EA674C1585FA2C00DF514C /* Build configuration list for PBXNativeTarget "desket-clock" */;
@@ -395,8 +278,6 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D4C46D531585286000A6DEAC /* deskets */,
-				D4AF227F158609AA00505D65 /* deskets (bronenos) */,
 				D4EA67541585FB1D00DF514C /* desket-widget */,
 				D4EA67431585FA2C00DF514C /* desket-clock */,
 				D4EA67721585FC6B00DF514C /* desket-calendar */,
@@ -404,54 +285,7 @@
 		};
 /* End PBXProject section */
 
-/* Begin PBXResourcesBuildPhase section */
-		D4AF228B158609AA00505D65 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D4AF2296158609D000505D65 /* desket-calendar.dylib in Resources */,
-				D4AF2295158609CC00505D65 /* desket-clock.dylib in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D4C46D521585286000A6DEAC /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXResourcesBuildPhase section */
-
 /* Begin PBXSourcesBuildPhase section */
-		D4AF2280158609AA00505D65 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D4286DCC15860F1000551C23 /* AppDelegate.m in Sources */,
-				D4286DD415860F4800551C23 /* main.m in Sources */,
-				D4286DE815860FEA00551C23 /* NSColor+CGColor.m in Sources */,
-				D4286DEE15860FEA00551C23 /* NSView+Wallsheet.m in Sources */,
-				D4286DF81586100200551C23 /* WallsheetView.m in Sources */,
-				D4286DFA1586100200551C23 /* WallsheetViewController.m in Sources */,
-				D4286DFC1586100200551C23 /* WallsheetWindowController.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D4C46D501585286000A6DEAC /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D4286DCB15860F1000551C23 /* AppDelegate.m in Sources */,
-				D4286DD315860F4800551C23 /* main.m in Sources */,
-				D4286DE715860FEA00551C23 /* NSColor+CGColor.m in Sources */,
-				D4286DED15860FEA00551C23 /* NSView+Wallsheet.m in Sources */,
-				D4286DF71586100200551C23 /* WallsheetView.m in Sources */,
-				D4286DF91586100200551C23 /* WallsheetViewController.m in Sources */,
-				D4286DFB1586100200551C23 /* WallsheetWindowController.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D4EA67401585FA2C00DF514C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -483,34 +317,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		D4AF2290158609AA00505D65 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				GCC_PRECOMPILE_PREFIX_HEADER = NO;
-				INFOPLIST_FILE = "deskets-system/Deskets-Info.plist";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/deskets\"",
-				);
-				PRODUCT_NAME = deskets;
-				WRAPPER_EXTENSION = app;
-			};
-			name = Debug;
-		};
-		D4AF2291158609AA00505D65 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				GCC_PRECOMPILE_PREFIX_HEADER = NO;
-				INFOPLIST_FILE = "deskets-system/Deskets-Info.plist";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/deskets\"",
-				);
-				PRODUCT_NAME = deskets;
-				WRAPPER_EXTENSION = app;
-			};
-			name = Release;
-		};
 		D4C46D701585286000A6DEAC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -553,28 +359,6 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				SDKROOT = macosx;
-			};
-			name = Release;
-		};
-		D4C46D731585286000A6DEAC /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				GCC_PRECOMPILE_PREFIX_HEADER = NO;
-				INFOPLIST_FILE = "deskets-system/Deskets-Info.plist";
-				LIBRARY_SEARCH_PATHS = deskets;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				WRAPPER_EXTENSION = app;
-			};
-			name = Debug;
-		};
-		D4C46D741585286000A6DEAC /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				GCC_PRECOMPILE_PREFIX_HEADER = NO;
-				INFOPLIST_FILE = "deskets-system/Deskets-Info.plist";
-				LIBRARY_SEARCH_PATHS = deskets;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
 		};
@@ -653,29 +437,11 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D4AF228F158609AA00505D65 /* Build configuration list for PBXNativeTarget "deskets (bronenos)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D4AF2290158609AA00505D65 /* Debug */,
-				D4AF2291158609AA00505D65 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		D4C46D4E1585286000A6DEAC /* Build configuration list for PBXProject "Deskets" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D4C46D701585286000A6DEAC /* Debug */,
 				D4C46D711585286000A6DEAC /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		D4C46D721585286000A6DEAC /* Build configuration list for PBXNativeTarget "deskets" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D4C46D731585286000A6DEAC /* Debug */,
-				D4C46D741585286000A6DEAC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

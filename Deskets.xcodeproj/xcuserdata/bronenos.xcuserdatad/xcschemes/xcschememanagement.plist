@@ -19,16 +19,6 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>deskets (bronenos).xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
-		<key>deskets.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
